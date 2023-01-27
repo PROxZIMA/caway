@@ -2,7 +2,7 @@
 
 [Cava](https://github.com/karlstav/cava) module for [Waybar](https://github.com/Alexays/Waybar)
 
-https://raw.githubusercontent.com/PROxZIMA/caway/master/assets/caway.mp4
+https://user-images.githubusercontent.com/43103163/215073338-e57fcb15-9a14-4805-b45a-76708f833df5.mp4
 
 ## Dependencies:
 - Cava
